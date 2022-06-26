@@ -1,3 +1,3 @@
-const bar = (number) => {
+const Foo = (id, number) => {
   return number * 2;
 };
